@@ -1,0 +1,8 @@
+NAME=wayland-protocols
+VERSION=1.17
+REVISION=1
+LICENSE=MIT
+SRC=https://wayland.freedesktop.org/releases/wayland-protocols-1.17.tar.xz
+SRCMD5=55ddd5fdb02b73b9de9559aaec267315
+BUILDDEPS=wayland
+INSTALLDEPS=wayland
